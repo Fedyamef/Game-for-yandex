@@ -1,1 +1,5 @@
 Arcade
+Python
+Menu
+Random
+Settings
