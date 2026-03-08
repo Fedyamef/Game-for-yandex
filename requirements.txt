@@ -1,4 +1,2 @@
 Arcade
-Python
 Random
-Settings
